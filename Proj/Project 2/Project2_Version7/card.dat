@@ -1,0 +1,169 @@
++++War Card Game+++
+Array elements: 6 38 93 41 11 
+Vector elements : 74 42 80 89 19 
+Array passed by value : 6 38 93 41 11 
+Changing array by reference : 
+Array changed
+Array elements: 12 76 186 82 22 
+Changing vector by reference : 
+Vector changed
+Vector elements : 148 84 160 178 38 
+Sum of array elements: 378
+Sum of vector elements: 608
+Sorting array using Bubble Sort : 
+Array elements: 12 22 76 82 186 
+Sorting array using Selection Sort : 
+Array elements: 12 22 76 82 186 
++ Battle 1 +
+Player 1 Card: 7D(Battle)
+Player 2 Card: TC(Battle)
++ Battle 2 +
+Player 1 Card: JD(Battle)
+Player 2 Card: KS(Battle)
++ Battle 3 +
+Player 1 Card: 5S(Battle)
+Player 2 Card: 7D(Battle)
++ Battle 4 +
+Player 1 Card: JD(Battle)
+Player 2 Card: 7D(Battle)
++ Battle 5 +
+Player 1 Card: 3D(Battle)
+Player 2 Card: KS(Battle)
++ Battle 6 +
+Player 1 Card: 2C(Battle)
+Player 2 Card: 4H(Battle)
++ Battle 7 +
+Player 1 Card: 8H(Battle)
+Player 2 Card: 4H(Battle)
++ Battle 8 +
+Player 1 Card: 6C(Battle)
+Player 2 Card: 8H(Battle)
++ Battle 9 +
+Player 1 Card: 7D(Battle)
+Player 2 Card: 5S(Battle)
++ Battle 10 +
+Player 1 Card: 8H(Battle)
+Player 2 Card: TC(Battle)
++ Battle 11 +
+Player 1 Card: 4H(Battle)
+Player 2 Card: 2C(Battle)
++ Battle 12 +
+Player 1 Card: 7D(Battle)
+Player 2 Card: KS(Battle)
++ Battle 13 +
+Player 1 Card: 7D(Battle)
+Player 2 Card: TC(Battle)
++ Battle 14 +
+Player 1 Card: 7D(Battle)
+Player 2 Card: JD(Battle)
++ Battle 15 +
+Player 1 Card: TC(Battle)
+Player 2 Card: 2C(Battle)
++ Battle 16 +
+Player 1 Card: 7D(Battle)
+Player 2 Card: 5S(Battle)
++ Battle 17 +
+Player 1 Card: TC(Battle)
+Player 2 Card: 5S(Battle)
++ Battle 18 +
+Player 1 Card: 3D(Battle)
+Player 2 Card: KS(Battle)
++ Battle 19 +
+Player 1 Card: JD(Battle)
+Player 2 Card: KS(Battle)
++ Battle 20 +
+Player 1 Card: 5S(Battle)
+Player 2 Card: AC(Battle)
++ Battle 21 +
+Player 1 Card: JD(Battle)
+Player 2 Card: 7D(Battle)
++ Battle 22 +
+Player 1 Card: 3D(Battle)
+Player 2 Card: 6C(Battle)
++ Battle 23 +
+Player 1 Card: TC(Battle)
+Player 2 Card: 9S(Battle)
++ Battle 24 +
+Player 1 Card: QH(Battle)
+Player 2 Card: 2C(Battle)
++ Battle 25 +
+Player 1 Card: AC(Battle)
+Player 2 Card: 7D(Battle)
++ Battle 26 +
+Player 1 Card: QH(Battle)
+Player 2 Card: 3D(Battle)
++ Battle 27 +
+Player 1 Card: 9S(Battle)
+Player 2 Card: 4H(Battle)
++ Battle 28 +
+Player 1 Card: 3D(Battle)
+Player 2 Card: 3D(Battle)
+-Placing three cards faced down...
+Player 1: Q   Player 2: 8
+Player 1: K   Player 2: T
+Player 1: 8   Player 2: 7
+Fourth card faced up...
+Player 1: K   Player 2: 5
++ Battle 30 +
+Player 1 Card: TC(Battle)
+Player 2 Card: AC(Battle)
++ Battle 31 +
+Player 1 Card: 5S(Battle)
+Player 2 Card: 8H(Battle)
++ Battle 32 +
+Player 1 Card: QH(Battle)
+Player 2 Card: TC(Battle)
++ Battle 33 +
+Player 1 Card: 9S(Battle)
+Player 2 Card: TC(Battle)
++ Battle 34 +
+Player 1 Card: 3D(Battle)
+Player 2 Card: QH(Battle)
++ Battle 35 +
+Player 1 Card: AC(Battle)
+Player 2 Card: KS(Battle)
++ Battle 36 +
+Player 1 Card: 6C(Battle)
+Player 2 Card: KS(Battle)
++ Battle 37 +
+Player 1 Card: KS(Battle)
+Player 2 Card: 7D(Battle)
++ Battle 38 +
+Player 1 Card: 5S(Battle)
+Player 2 Card: KS(Battle)
++ Battle 39 +
+Player 1 Card: TC(Battle)
+Player 2 Card: AC(Battle)
++ Battle 40 +
+Player 1 Card: 4H(Battle)
+Player 2 Card: KS(Battle)
++ Battle 41 +
+Player 1 Card: 3D(Battle)
+Player 2 Card: 4H(Battle)
++ Battle 42 +
+Player 1 Card: 9S(Battle)
+Player 2 Card: AC(Battle)
++ Battle 43 +
+Player 1 Card: QH(Battle)
+Player 2 Card: 4H(Battle)
++ Battle 44 +
+Player 1 Card: 6C(Battle)
+Player 2 Card: TC(Battle)
++ Battle 45 +
+Player 1 Card: 8H(Battle)
+Player 2 Card: 3D(Battle)
++ Battle 46 +
+Player 1 Card: 9S(Battle)
+Player 2 Card: KS(Battle)
++ Battle 47 +
+Player 1 Card: QH(Battle)
+Player 2 Card: 9S(Battle)
++ Battle 48 +
+Player 1 Card: 9S(Battle)
+Player 2 Card: 8H(Battle)
++ Battle 49 +
+Player 1 Card: 4H(Battle)
+Player 2 Card: QH(Battle)
++ Battle 50 +
+Player 1 Card: 6C(Battle)
+Player 2 Card: 4H(Battle)
